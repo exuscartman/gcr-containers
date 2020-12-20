@@ -1,2 +1,1 @@
-FROM gcr.io/google_containers/cluster-proportional-autoscaler-amd64:1.7.1
-LABEL maintainer="test@test.com"
+FROM k8s.gcr.io/cluster-proportional-autoscaler-amd64:1.8.1
