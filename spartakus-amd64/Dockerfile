@@ -1,0 +1,1 @@
+FROM gcr.io/google_containers/spartkus-amd64:v1.0.0
