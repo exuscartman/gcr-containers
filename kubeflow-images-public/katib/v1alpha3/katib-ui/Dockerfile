@@ -1,1 +1,1 @@
-FROM gcr.io/kubeflow-images-public/katib/v1alpha3/katib-ui:917164a
+FROM gcr.io/kubeflow-images-public/katib/v1alpha3/katib-ui:v1beta1-a96ff59
